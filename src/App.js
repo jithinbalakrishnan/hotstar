@@ -2,12 +2,17 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import { createBrowserRouter, RouterProvider, Outlet } from "react-router-dom";
 
+import { Provider } from "react-redux";
+import appStore from "./utils/appStore";
+
 import Home from "./components/Home";
 import Login from "./components/Login";
 
 const App = () => (
   <>
-    <Outlet />
+    <Provider store={appStore}>
+      <Outlet />
+    </Provider>
   </>
 );
 
