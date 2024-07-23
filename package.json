@@ -1,0 +1,27 @@
+{
+  "name": "hotstar",
+  "version": "1.0.0",
+  "description": "hotstar by jithin",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jithinbalakrishnan/hotstar.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "javascript"
+  ],
+  "author": "jithin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jithinbalakrishnan/hotstar/issues"
+  },
+  "homepage": "https://github.com/jithinbalakrishnan/hotstar#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
