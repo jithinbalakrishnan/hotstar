@@ -1,0 +1,14 @@
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    margin: 5px;
+    height: 350px;
+    width: 400px;
+}
+
+.card>img {
+    max-width: 100%;
+}
