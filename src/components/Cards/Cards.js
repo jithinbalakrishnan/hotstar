@@ -4,7 +4,7 @@ import "./cards.css";
 const Cards = (props) => {
   const { list } = props;
   return (
-    <div className="card-container">
+    <div  data-testid="card-test-container" className="card-container">
       {list.map((item) => (
         <div className="card" key={item.id}>
           <img src={IMG_BASE_URL + item.backdrop_path}></img>
