@@ -1,0 +1,441 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "backdrop_path": "/dvBCdCohwWbsP5qAaglOXagDMtk.jpg",
+            "id": 533535,
+            "title": "Deadpool \u0026 Wolverine",
+            "original_title": "Deadpool \u0026 Wolverine",
+            "overview": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+            "poster_path": "/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                35,
+                878
+            ],
+            "popularity": 7608.765,
+            "release_date": "2024-07-24",
+            "video": false,
+            "vote_average": 8.08,
+            "vote_count": 706
+        },
+        {
+            "backdrop_path": "/etj8E2o0Bud0HkONVQPjyCkIvpv.jpg",
+            "id": 94997,
+            "name": "House of the Dragon",
+            "original_name": "House of the Dragon",
+            "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+            "poster_path": "/t9XkeE7HzOsdQcDDDapDYh8Rrmt.jpg",
+            "media_type": "tv",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                10765,
+                18,
+                10759
+            ],
+            "popularity": 2835.784,
+            "first_air_date": "2022-08-21",
+            "vote_average": 8.41,
+            "vote_count": 4549,
+            "origin_country": [
+                "US"
+            ]
+        },
+        {
+            "backdrop_path": "/tncbMvfV0V07UZozXdBEq4Wu9HH.jpg",
+            "id": 573435,
+            "title": "Bad Boys: Ride or Die",
+            "original_title": "Bad Boys: Ride or Die",
+            "overview": "After their late former Captain is framed, Lowrey and Burnett try to clear his name, only to end up on the run themselves.",
+            "poster_path": "/nP6RliHjxsz4irTKsxe8FRhKZYl.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                53,
+                35
+            ],
+            "popularity": 9457.863,
+            "release_date": "2024-06-05",
+            "video": false,
+            "vote_average": 7.648,
+            "vote_count": 1082
+        },
+        {
+            "backdrop_path": "/2RVcJbWFmICRDsVxRI8F5xRmRsK.jpg",
+            "id": 762441,
+            "title": "A Quiet Place: Day One",
+            "original_title": "A Quiet Place: Day One",
+            "overview": "As New York City is invaded by alien creatures who hunt by sound, a woman named Sam fights to survive with her cat.",
+            "poster_path": "/hU42CRk14JuPEdqZG3AWmagiPAP.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                878,
+                53
+            ],
+            "popularity": 1131.329,
+            "release_date": "2024-06-26",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 539
+        },
+        {
+            "backdrop_path": "/s5znBQmprDJJ553IMQfwEVlfroH.jpg",
+            "id": 799583,
+            "title": "The Ministry of Ungentlemanly Warfare",
+            "original_title": "The Ministry of Ungentlemanly Warfare",
+            "overview": "During World War II, the British Army assigns a group of competent soldiers to carry out a mission against the Nazi forces behind enemy lines... A true story about a secret British WWII organization – the Special Operations Executive. Founded by Winston Churchill, their irregular warfare against the Germans helped to change the course of the war, and gave birth to modern black operations.",
+            "poster_path": "/8aF0iAKH9MJMYAZdi0Slg77RYa2.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                35,
+                10752,
+                18
+            ],
+            "popularity": 425.936,
+            "release_date": "2024-04-18",
+            "video": false,
+            "vote_average": 7.233,
+            "vote_count": 560
+        },
+        {
+            "backdrop_path": "/fRoKZYEFYfWO11uDiQg84Fs7aSt.jpg",
+            "id": 1311546,
+            "title": "Paris 2024 Olympic Opening Ceremony",
+            "original_title": "Cérémonie d'ouverture des Jeux Olympiques de Paris 2024",
+            "overview": "On 26 July 2024, the largest-ever Olympic Games Opening Ceremony took place, beginning at 7.30 p.m. CET. The Opening Ceremony of the Olympic Games Paris 2024 was an unprecedented experience drawing on the natural light of the setting sun with all its nuances to illuminate the world’s best athletes as they travelled down the Seine, in the heart of the French capital.",
+            "poster_path": "/mDU7bwWaxeDJyUGyBU4P0I6TgEm.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "fr",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 99.509,
+            "release_date": "2024-07-26",
+            "video": false,
+            "vote_average": 5.0,
+            "vote_count": 36
+        },
+        {
+            "backdrop_path": "/tEjnoEdE2PtFp9UcqQse5hDgW8U.jpg",
+            "id": 615,
+            "name": "Futurama",
+            "original_name": "Futurama",
+            "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
+            "poster_path": "/7RRHbCUtAsVmKI6FEMzZB6Re88P.jpg",
+            "media_type": "tv",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                35,
+                10765
+            ],
+            "popularity": 660.111,
+            "first_air_date": "1999-03-28",
+            "vote_average": 8.4,
+            "vote_count": 3162,
+            "origin_country": [
+                "US"
+            ]
+        },
+        {
+            "backdrop_path": "/6Vbm2nHxHMlZZ199fmZtMytpFvK.jpg",
+            "id": 1309923,
+            "title": "Non Negotiable",
+            "original_title": "No negociable",
+            "overview": "Hostage negotiator Alan Bender is called to rescue the president from a kidnapping, only to find himself also mediating to save his wife and marriage.",
+            "poster_path": "/bHQG4UsLMFCy91gfLAFRpnCOPdP.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "es",
+            "genre_ids": [
+                28,
+                53,
+                35
+            ],
+            "popularity": 89.312,
+            "release_date": "2024-07-25",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 19
+        },
+        {
+            "backdrop_path": "/eNPpCa7vxO6EYL1Z3H00JoeO4jL.jpg",
+            "id": 76669,
+            "name": "Elite",
+            "original_name": "Élite",
+            "overview": "When three working class kids enroll in the most exclusive school in Spain, the clash between the wealthy and the poor students leads to tragedy.",
+            "poster_path": "/3NTAbAiao4JLzFQw6YxP1YZppM8.jpg",
+            "media_type": "tv",
+            "adult": false,
+            "original_language": "es",
+            "genre_ids": [
+                80,
+                9648,
+                18
+            ],
+            "popularity": 1202.201,
+            "first_air_date": "2018-10-05",
+            "vote_average": 8.0,
+            "vote_count": 9042,
+            "origin_country": [
+                "ES"
+            ]
+        },
+        {
+            "backdrop_path": "/en971MEXui9diirXlogOrPKmsEn.jpg",
+            "id": 293660,
+            "title": "Deadpool",
+            "original_title": "Deadpool",
+            "overview": "The origin story of former Special Forces operative turned mercenary Wade Wilson, who, after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
+            "poster_path": "/3E53WEZJqP6aM84D8CckXx4pIHw.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                12,
+                35
+            ],
+            "popularity": 1576.579,
+            "release_date": "2016-02-09",
+            "video": false,
+            "vote_average": 7.619,
+            "vote_count": 30285
+        },
+        {
+            "backdrop_path": "/stKGOm8UyhuLPR9sZLjs5AkmncA.jpg",
+            "id": 1022789,
+            "title": "Inside Out 2",
+            "original_title": "Inside Out 2",
+            "overview": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone.",
+            "poster_path": "/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                10751,
+                12,
+                35
+            ],
+            "popularity": 5050.59,
+            "release_date": "2024-06-11",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 2126
+        },
+        {
+            "backdrop_path": "/7cqKGQMnNabzOpi7qaIgZvQ7NGV.jpg",
+            "id": 76479,
+            "name": "The Boys",
+            "original_name": "The Boys",
+            "overview": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
+            "poster_path": "/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg",
+            "media_type": "tv",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                10765,
+                10759
+            ],
+            "popularity": 1593.733,
+            "first_air_date": "2019-07-25",
+            "vote_average": 8.474,
+            "vote_count": 10107,
+            "origin_country": [
+                "US"
+            ]
+        },
+        {
+            "backdrop_path": "/z121dSTR7PY9KxKuvwiIFSYW8cf.jpg",
+            "id": 929590,
+            "title": "Civil War",
+            "original_title": "Civil War",
+            "overview": "In the near future, a group of war journalists attempt to survive while reporting the truth as the United States stands on the brink of civil war.",
+            "poster_path": "/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                10752,
+                28,
+                18
+            ],
+            "popularity": 885.693,
+            "release_date": "2024-04-10",
+            "video": false,
+            "vote_average": 6.977,
+            "vote_count": 2015
+        },
+        {
+            "backdrop_path": "/m2D5bhoAB0ewe42m8rfIl0a1ahM.jpg",
+            "id": 211089,
+            "name": "Strange Tales Of Tang Dynasty",
+            "original_name": "唐朝诡事录",
+            "overview": "When the dark evil immortal descends from the heaven, and the mysterious underground ghost palace was revealed, a strange herb named the Black Tea suddenly took Chang'an City by storm. However, no one knows whether it is a healthy medicine or one that could harm people. Cases of missing brides in Chang'an City began occurring one after another, which seems to be inextricably linked to the black tea...  Ling Feng, general of the Jin Wu guards was tasked to investigate these cases. On his journey, he meets his strongest opponent in Su Wu Ming, the disciple of Di Ren Jie. The two of them work together to solve these mysterious cases.",
+            "poster_path": "/sgv6nwj1TlDDKqxbcUEuds8fqoz.jpg",
+            "media_type": "tv",
+            "adult": false,
+            "original_language": "zh",
+            "genre_ids": [
+                9648,
+                80,
+                10759
+            ],
+            "popularity": 2992.213,
+            "first_air_date": "2022-09-27",
+            "vote_average": 8.0,
+            "vote_count": 17,
+            "origin_country": [
+                "CN"
+            ]
+        },
+        {
+            "backdrop_path": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+            "id": 37854,
+            "name": "One Piece",
+            "original_name": "ワンピース",
+            "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+            "poster_path": "/e3NBGiAifW9Xt8xD5tpARskjccO.jpg",
+            "media_type": "tv",
+            "adult": false,
+            "original_language": "ja",
+            "genre_ids": [
+                10759,
+                35,
+                16
+            ],
+            "popularity": 208.06,
+            "first_air_date": "1999-10-20",
+            "vote_average": 8.72,
+            "vote_count": 4538,
+            "origin_country": [
+                "JP"
+            ]
+        },
+        {
+            "backdrop_path": "/fqv8v6AycXKsivp1T5yKtLbGXce.jpg",
+            "id": 653346,
+            "title": "Kingdom of the Planet of the Apes",
+            "original_title": "Kingdom of the Planet of the Apes",
+            "overview": "Several generations following Caesar's reign, apes – now the dominant species – live harmoniously while humans have been reduced to living in the shadows. As a new tyrannical ape leader builds his empire, one young ape undertakes a harrowing journey that will cause him to question all he's known about the past and to make choices that will define a future for apes and humans alike.",
+            "poster_path": "/gKkl37BQuKTanygYQG1pyYgLVgf.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                12,
+                28
+            ],
+            "popularity": 1616.015,
+            "release_date": "2024-05-08",
+            "video": false,
+            "vote_average": 7.172,
+            "vote_count": 2138
+        },
+        {
+            "backdrop_path": "/8hbXSjV5JvSjuSnOF2TBOAJEu5m.jpg",
+            "id": 250162,
+            "name": "The Decameron",
+            "original_name": "The Decameron",
+            "overview": "As the bubonic plague spreads through Italy, a group of nobles and servants retreats to a villa, where their lavish getaway quickly spirals into chaos.",
+            "poster_path": "/7jxX4EQLeGMQb8SA4YgiaUowz8n.jpg",
+            "media_type": "tv",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "popularity": 228.243,
+            "first_air_date": "2024-07-25",
+            "vote_average": 4.719,
+            "vote_count": 16,
+            "origin_country": [
+                "US"
+            ]
+        },
+        {
+            "backdrop_path": "/H5HjE7Xb9N09rbWn1zBfxgI8uz.jpg",
+            "id": 746036,
+            "title": "The Fall Guy",
+            "original_title": "The Fall Guy",
+            "overview": "Fresh off an almost career-ending accident, stuntman Colt Seavers has to track down a missing movie star, solve a conspiracy and try to win back the love of his life while still doing his day job.",
+            "poster_path": "/tSz1qsmSJon0rqjHBxXZmrotuse.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                35
+            ],
+            "popularity": 521.038,
+            "release_date": "2024-04-24",
+            "video": false,
+            "vote_average": 7.208,
+            "vote_count": 1683
+        },
+        {
+            "backdrop_path": "/pxw4oHIvDcaLM0PISHhibs2iboe.jpg",
+            "id": 249906,
+            "name": "Tokyo Swindlers",
+            "original_name": "地面師たち",
+            "overview": "A team of swindlers gets wind of prime real estate worth 10 billion yen and will stop at nothing to pull off their most ambitious scam yet.",
+            "poster_path": "/5NwSIZTfH04UW0VRRQxPcZk3XXm.jpg",
+            "media_type": "tv",
+            "adult": false,
+            "original_language": "ja",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "popularity": 271.974,
+            "first_air_date": "2024-07-25",
+            "vote_average": 7.1,
+            "vote_count": 10,
+            "origin_country": [
+                "JP"
+            ]
+        },
+        {
+            "backdrop_path": "/Akv9GlCCMrzcDkVz4ad8MdLl9DK.jpg",
+            "id": 748783,
+            "title": "The Garfield Movie",
+            "original_title": "The Garfield Movie",
+            "overview": "Garfield, the world-famous, Monday-hating, lasagna-loving indoor cat, is about to have a wild outdoor adventure! After an unexpected reunion with his long-lost father – scruffy street cat Vic – Garfield and his canine friend Odie are forced from their perfectly pampered life into joining Vic in a hilarious, high-stakes heist.",
+            "poster_path": "/p6AbOJvMQhBmffd0PIv0u8ghWeY.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                12
+            ],
+            "popularity": 1909.057,
+            "release_date": "2024-04-30",
+            "video": false,
+            "vote_average": 7.19,
+            "vote_count": 604
+        }
+    ],
+    "total_pages": 1000,
+    "total_results": 20000
+}
