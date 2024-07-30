@@ -7,6 +7,7 @@ import appStore from "./utils/appStore";
 
 import Home from "./components/Home";
 import Login from "./components/Login";
+import HomeV2 from "./components/HomeUseCall";
 
 const App = () => (
   <>
@@ -24,6 +25,10 @@ const appRouter = createBrowserRouter([
       {
         path: "/",
         element: <Home />,
+      },
+      {
+        path: "use-callback",
+        element: <HomeV2 />,
       },
       {
         path: "/login",
