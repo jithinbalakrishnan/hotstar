@@ -4,11 +4,34 @@
 }
 
 .card {
-    margin: 5px;
-    height: 350px;
-    width: 400px;
+    margin: 9px 9px 21px 9px;
+    width: 234px;
+    /* height: 350px; */
+    
+    
+}
+.image-wrapper {
+    position: relative;
+    height: 160px;
+}
+.title {
+    margin: 0;
+    font-weight: bold;
 }
 
-.card>img {
+.image-wrapper >img {
     max-width: 100%;
+    border-radius: 15px;
+}
+.circle-wrapper {
+    height: 40px;
+    width: 40px;
+    border: 1px solid green;
+    border-radius: 50%;
+    background-color: #fff;
+    position: absolute;
+    bottom: 4%;
+    left: 5%;
+    text-align: center;
+    align-content: center;
 }
