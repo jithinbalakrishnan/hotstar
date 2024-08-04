@@ -8,6 +8,10 @@ import appStore from "./utils/appStore";
 import Home from "./components/Home";
 import Login from "./components/Login";
 import HomeV2 from "./components/HomeUseCall";
+import HomeV3 from "./components/HomeRef";
+import TimerTick from "./components/TimerTick";
+import ProgressBar from "./components/ProgressBar/ProgressBar";
+
 
 const App = () => (
   <>
@@ -31,9 +35,21 @@ const appRouter = createBrowserRouter([
         element: <HomeV2 />,
       },
       {
+        path: "use-ref",
+        element: <HomeV3 />,
+      },
+      {
         path: "/login",
         element: <Login />,
       },
+      {
+        path: "/timer-tick",
+        element: <TimerTick />,
+      },
+      {
+        path: "/progress",
+        element: <ProgressBar />
+      }
     ],
     //   errorElement: <Error />,
   },
