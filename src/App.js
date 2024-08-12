@@ -11,6 +11,7 @@ import HomeV2 from "./components/HomeUseCall";
 import HomeV3 from "./components/HomeRef";
 import TimerTick from "./components/TimerTick";
 import ProgressBar from "./components/ProgressBar/ProgressBar";
+import Slider from "./components/Slider/Slider";
 
 
 const App = () => (
@@ -49,6 +50,10 @@ const appRouter = createBrowserRouter([
       {
         path: "/progress",
         element: <ProgressBar />
+      },
+      {
+        path: "/slider",
+        element: <Slider />
       }
     ],
     //   errorElement: <Error />,
