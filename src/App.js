@@ -14,6 +14,7 @@ import ProgressBar from "./components/ProgressBar/ProgressBar";
 import Slider from "./components/Slider/Slider";
 import WarningLayout from "./components/warningLayout";
 import HomeWithReducer from "./components/HomeReducerLogic/Home";
+import VirtualList from "./components/VirtualList/VirtualList";
 
 
 const App = () => (
@@ -64,6 +65,10 @@ const appRouter = createBrowserRouter([
       {
         path: "/home-reducer",
         element: <HomeWithReducer />
+      },
+      {
+        path: "/virtual-list",
+        element: <VirtualList />
       }
     ],
     //   errorElement: <Error />,
