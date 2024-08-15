@@ -12,6 +12,7 @@ import HomeV3 from "./components/HomeRef";
 import TimerTick from "./components/TimerTick";
 import ProgressBar from "./components/ProgressBar/ProgressBar";
 import Slider from "./components/Slider/Slider";
+import WarningLayout from "./components/warningLayout";
 
 
 const App = () => (
@@ -54,6 +55,10 @@ const appRouter = createBrowserRouter([
       {
         path: "/slider",
         element: <Slider />
+      },
+      {
+        path: "/warning",
+        element: <WarningLayout />
       }
     ],
     //   errorElement: <Error />,
