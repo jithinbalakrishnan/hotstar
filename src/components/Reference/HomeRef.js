@@ -2,10 +2,11 @@ import React, { useCallback, useEffect, useRef, useState } from "react";
 import {
   MOVIE_LIST_URL,
   MOVIE_SEARCH_URL,
-} from "../constants/constant";
-import Cards from "./Cards/Cards";
-import useDebounce from "../utils/CustomHooks/useDebounce";
-import Search from "./Search";
+} from "../../constants/constant";
+import Cards from "../Cards/Cards";
+import useDebounce from "../../utils/CustomHooks/useDebounce";
+import Search from "../Search";
+import Form from "./Form";
 
 const HomeV3 = () => {
   const [searchText, setSearchText] = useState("");
@@ -14,6 +15,7 @@ const HomeV3 = () => {
 
   const debouncedInputValue = useDebounce(searchText, 1000);
   const inputRef = useRef()
+  const formRef = useRef(null)
 
   useEffect(()=> {
     fetchMovies()
@@ -64,7 +66,13 @@ const HomeV3 = () => {
   const handleNAmeSearch = (e) => {
     setNameSearch(e.target.value)
   }
+  
 
+
+
+  const handleForm = ()=> {
+    formRef.current?.restForm() // calling a function which is written inside the parent
+  }
   return (
     <div>
       <p>HotStar</p>
@@ -76,8 +84,12 @@ const HomeV3 = () => {
       <br />
       <p>Name: </p>
       <input disabled value= {inputRef?.current?.value}></input>
-      <p>Trending Movies</p>
-      <Cards list={movieList} />
+      <br />
+      <br />
+      <Form ref={formRef}/>
+      <button onClick={handleForm}>Reset</button>
+      {/* <p>Trending Movies</p> */}
+      {/* <Cards list={movieList} /> */}
     </div>
   );
 };

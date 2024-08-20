@@ -8,7 +8,7 @@ import appStore from "./utils/appStore";
 import Home from "./components/Home";
 import Login from "./components/Login";
 import HomeV2 from "./components/HomeUseCall";
-import HomeV3 from "./components/HomeRef";
+import HomeV3 from "./components/Reference/HomeRef";
 import TimerTick from "./components/TimerTick";
 import ProgressBar from "./components/ProgressBar/ProgressBar";
 import Slider from "./components/Slider/Slider";
