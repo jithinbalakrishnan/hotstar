@@ -33,16 +33,44 @@ const HomeWithReducer = () => {
       payload: { name: e.target.name, value: e.target.value },
     });
   };
-  console.log('formState', formState);
+  const handleNameChange = (e) => {
+    dispatchForm({
+      type: "UPDATE_NAME",
+      payload: e.target.value,
+    });
+  };
+  const handleAgeChange = (e) => {
+    dispatchForm({
+      type: "UPDATE_AGE",
+      payload: e.target.value,
+    });
+  };
+  console.log("formState", formState);
   return (
     <div>
       <p>HotStar</p>
       <p>Trending Movies</p>
       <div>
         <p>Name</p>
-        <input value={formState.name} name="name" onChange={handleInputChange}></input>
+        <input
+          // value={formState.name}
+          name="name"
+          // onChange={handleNameChange}
+          onChange={handleInputChange}
+        ></input>
         <p>Age</p>
-        <input value={formState.age} name="age" onChange={handleInputChange}></input>
+        <input
+          // value={formState.age}
+          name="age"
+          // onChange={handleAgeChange}
+          onChange={handleInputChange}
+        ></input>
+      </div>
+      <br />
+      <br />
+      <div>
+        <p>Name: {formState.name}</p>
+        <p>Age: {formState.age}</p>
       </div>
       <Cards list={state.data} />
     </div>
