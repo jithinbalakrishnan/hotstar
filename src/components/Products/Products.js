@@ -45,7 +45,7 @@ const Products = () => {
         <input onChange={handleInputChange}></input>
       </div>
       <div className="p-container">
-        {/* <ProductList list={filteredProducts} /> */}
+        <ProductList list={filteredProducts} />
       </div>
     </>
   );
