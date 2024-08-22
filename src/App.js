@@ -16,6 +16,8 @@ import WarningLayout from "./components/warningLayout";
 import HomeWithReducer from "./components/HomeReducerLogic/Home";
 import VirtualList from "./components/VirtualList/VirtualList";
 
+import Products from "./components/Products/Products";
+
 
 const App = () => (
   <>
@@ -69,6 +71,10 @@ const appRouter = createBrowserRouter([
       {
         path: "/virtual-list",
         element: <VirtualList />
+      },
+      {
+        path: "/products",
+        element: <Products />
       }
     ],
     //   errorElement: <Error />,

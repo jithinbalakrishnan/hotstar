@@ -1,0 +1,14 @@
+.products-container {
+    
+}
+.p-wrapper {
+    background-color: #bdbdbd;
+    width: 325px;
+    height: 78px;
+    margin-top: 10px;
+    text-align: center;
+    display: flex;
+}
+.p-wrapper p {
+    margin: auto;
+}
