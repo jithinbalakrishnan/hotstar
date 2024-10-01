@@ -17,6 +17,7 @@ import HomeWithReducer from "./components/HomeReducerLogic/Home";
 import VirtualList from "./components/VirtualList/VirtualList";
 
 import Products from "./components/Products/Products";
+import Counter from "./components/Counter/Counter";
 
 
 const App = () => (
@@ -75,6 +76,10 @@ const appRouter = createBrowserRouter([
       {
         path: "/products",
         element: <Products />
+      },
+      {
+        path: "/counter",
+        element: <Counter />
       }
     ],
     //   errorElement: <Error />,
